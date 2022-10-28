@@ -35,6 +35,4 @@ public class Get01 {
                    Status Line should be HTTP/1.1 200 OK
             */
 
-    
-
     }
