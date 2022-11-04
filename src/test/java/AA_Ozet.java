@@ -10,8 +10,7 @@ public class AA_Ozet {
     PATCH : Belirli bir kaynaktaki verilerin bir kısmının değiştirilmesi için kullanılan methoddur.
     Güncellediği veriyi baştan oluşturmaz. Yalnızca değişiklik yapmak istenilen yerdeki değeri değiştirir.
 
-
-
+    Key kısmı değişmiyor ASLA, Value kısım değişiyor...
 
 
      */
