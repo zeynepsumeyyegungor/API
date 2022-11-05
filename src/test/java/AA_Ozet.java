@@ -12,6 +12,9 @@ public class AA_Ozet {
 
     Key kısmı değişmiyor ASLA, Value kısım değişiyor...
 
+    //get request yapıyrz. expected datayı convert methoda string olarak koy. map e çevir
+    //responce yi de map e çevir ve karşılaştır.
+
 
      */
 }
