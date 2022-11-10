@@ -1,3 +1,5 @@
+package zzz_ozet;
+
 public class AA_Ozet {
     /*
     Soap=finansal ve ödeme noktaları ile alakalı alanlarda kullanılır, daha güvenilirdir.
